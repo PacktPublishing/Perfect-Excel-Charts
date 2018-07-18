@@ -1,0 +1,6 @@
+GDP of italy: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD?end=2016&locations=IT&start=1960
+Unemployment, Italy: https://data.worldbank.org/indicator/SL.UEM.TOTL.NE.ZS?locations=IT
+Unemployment, France: https://data.worldbank.org/indicator/SL.UEM.TOTL.NE.ZS?locations=FR
+Example of slopegraph: http://www.storytellingwithdata.com/blog/2018/6/1/swdchallenge-slopegraph
+Line on a map: https://www.endomondo.com/users/5409568/workouts/336175159 
+Coca-colahttps://www.coca-colacompany.com/content/dam/journey/us/en/private/fileassets/pdf/2018/TCCCAR17.pdf?utm_source=annual-review-2017.com&utm_medium=referral&utm_campaign=Annual_Report
