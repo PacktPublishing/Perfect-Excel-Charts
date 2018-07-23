@@ -18,10 +18,21 @@ By the end of the course, you will have learned how to implement the principles 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-If you are a business analyst, data scientist, or a data practitioner trying to go beyond the default visualization options, or if you want to figure out how to work with messy real-life datasets, this course is for you.
+Basic knowledge of Excel 2018, ex:
+○	How to change font format
+○	How to change format of a number
+○	Working with auto fill
+
 ### Technical Requirements
 This course has the following software requirements:<br/>
-empty
+●	Excel 2018 with 
+This course has been tested on the following system configuration:
+●	OS: Windows 7
+●	Processor: Dual Core 3.0 Ghz
+●	Memory: 4GB
+●	Hard Disk Space: 200MB
+●	Video Card: 256MB Video Memory 
+
 
 ## Related Products
 * [The Perfect SEO Audit in 2018: Screaming Frog SEO Spider [Video]](https://www.packtpub.com/web-development/perfect-seo-audit-2018-screaming-frog-seo-spider-video?utm_source=github&utm_medium=repository&utm_campaign=9781789619546)
