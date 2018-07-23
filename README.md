@@ -9,13 +9,11 @@ By the end of the course, you will have learned how to implement the principles 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Improve websites using proven SEO techniques 
-<LI>Research keywords that matter 
-<LI>What are Google robots (crawlers) and how they work? 
-<LI>How to optimize the content of your website for SEO internal linking 
-<LI>Creating HTML and XML sitemaps 
-<LI>Using Google Webmaster Ttols 
-<LI>OnPage SEO that will make your content look great in Google eyes! </LI></UL></DIV>
+<LI>Apply a top-down approach in data analysis by starting with high-level questions, sketches, and metric definitions for more effective communication with data
+<LI>Work with real-life noisy data and communicate findings that are relatable to real life with clarity and truthfulness
+<LI>Dissect common elements of an ideal chart to get an understanding of how to use it to tell a clear story 
+<LI>Discover how elements of each chart type serve to add clarity and substance to the chart message
+<LI>Build perfect charts using Excel, one of the most popular statistical applications used worldwide</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
