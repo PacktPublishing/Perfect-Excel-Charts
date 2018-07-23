@@ -18,19 +18,19 @@ By the end of the course, you will have learned how to implement the principles 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Basic knowledge of Excel 2018, ex:
-○	How to change font format
-○	How to change format of a number
+Basic knowledge of Excel 2018, ex:<br/>
+○	How to change font format<br/>
+○	How to change format of a number<br/>
 ○	Working with auto fill
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-●	Excel 2018 with 
-This course has been tested on the following system configuration:
-●	OS: Windows 7
-●	Processor: Dual Core 3.0 Ghz
-●	Memory: 4GB
-●	Hard Disk Space: 200MB
+●	Excel 2018 with<br/>
+This course has been tested on the following system configuration:<br/>
+●	OS: Windows 7<br/>
+●	Processor: Dual Core 3.0 Ghz<br/>
+●	Memory: 4GB<br/>
+●	Hard Disk Space: 200MB<br/>
 ●	Video Card: 256MB Video Memory 
 
 
