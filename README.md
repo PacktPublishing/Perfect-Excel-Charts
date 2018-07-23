@@ -1,7 +1,7 @@
 # Perfect Excel Charts [Video]
 This is the code repository for [Perfect Excel Charts [Video]](https://www.packtpub.com/big-data-and-business-intelligence/perfect-excel-charts-video?utm_source=github&utm_medium=repository&utm_campaign=9781789341034), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-	A lot of us who work with data know how to make charts, but don't know how to make effective visualizations that send a clear, efficient, and truthful message. Many of us don't realize what makes charts speak and how to remove noise and focus only on what's important.
+A lot of us who work with data know how to make charts, but don't know how to make effective visualizations that send a clear, efficient, and truthful message. Many of us don't realize what makes charts speak and how to remove noise and focus only on what's important.
 This course takes a different approach, focusing instead on various data science tools, typical workflows in data projects, algorithms, and the math behind data science. You will work on presenting and communicating with data using visual media such as charts, plots, and histograms with real-world datasets. By working with the four most popular chart types, you will dissect each of them at a microscopic level while using interesting real-world datasets with practical examples in Excel. The aim of the course is to show you where charts work and where they don't and what makes these charts easier to understand. 
 By the end of the course, you will have learned how to implement the principles of effective visual communication using Excel.
 
